@@ -1,0 +1,30 @@
+body {
+  width: 400px;
+  height: 562px;
+}
+
+.greeting {
+  background-color: aqua;
+  height: 50px;
+}
+
+.progressContainer {
+  background-color: aquamarine;
+  height: 50px;
+}
+
+.actionInput {
+  background-color: beige;
+  height: 50px;
+}
+
+.actionItems {
+  background-color: blanchedalmond;
+  height: 200px;
+}
+
+.actionItems__item {
+  height: 50px;
+  background-color: blueviolet;
+  margin: 3px;
+}
