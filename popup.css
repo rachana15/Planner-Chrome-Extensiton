@@ -6,14 +6,29 @@ body {
 .greeting > img {
   position: absolute;
   z-index: 100;
-  top: 0;
-  right: 0;
-  height: 100px;
+  top: -50px;
+  right: -50px;
+  height: 180px;
+}
+.greeting__type {
+  color: #2f2f2f;
+  font-weight: 400;
+  margin-bottom: 0px;
+  font-size: 1.8rem;
 }
 
+.greeting__name {
+  color: #6c757d;
+  margin-bottom: 0px;
+}
 .progressContainer {
-  background-color: aquamarine;
-  height: 50px;
+}
+
+#progress {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  position: relative;
 }
 
 .actionInput {
