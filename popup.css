@@ -3,9 +3,12 @@ body {
   height: 562px;
 }
 
-.greeting {
-  background-color: aqua;
-  height: 50px;
+.greeting > img {
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  right: 0;
+  height: 100px;
 }
 
 .progressContainer {
