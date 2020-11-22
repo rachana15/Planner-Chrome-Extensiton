@@ -22,10 +22,10 @@ body {
   margin-bottom: 0px;
 }
 .progressContainer {
-  height: 200px;
+  /* height: 200px; */
 }
 
-#progress {
+#container {
   margin: 20px;
   width: 200px;
   height: 200px;
